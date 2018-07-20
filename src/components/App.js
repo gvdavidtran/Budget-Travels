@@ -106,7 +106,7 @@ class App extends Component {
                   Vietnam
                 </Typography>
                 <Typography component="p">
-                  Vietnam is located in South East Asia. Very hot. Very nice.
+                  Vietnam is located in South East Asia. Very hot. Very nice. You'll love it.
                 </Typography>
               </CardContent>
               <CardActions>
